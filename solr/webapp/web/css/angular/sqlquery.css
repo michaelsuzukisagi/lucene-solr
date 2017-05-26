@@ -236,3 +236,8 @@ limitations under the License.
   width: 400px;
   height: 300px
 }
+.grid
+{
+  width: 100%;
+  height: 400px;
+}

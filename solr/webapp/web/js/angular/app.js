@@ -22,7 +22,8 @@ var solrAdminApp = angular.module("solrAdminApp", [
   "ngtimeago",
   "solrAdminServices",
   "localytics.directives",
-  "ui.grid"
+  "ui.grid",
+  "ui.grid.resizeColumns"
 ]);
 
 solrAdminApp.config([
